@@ -767,10 +767,16 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 广东｜少儿,http://www.namewee.xyz/gudou.php?id=1457
 广东｜南国都市,https://aplays.gztv.com/sec/shenghuos.m3u8?auth_key
 广东｜经济科教,http://www.namewee.xyz/gudou.php?id=GDjingjikejiaoHD_7000
+广东｜大湾区卫视https://www.coolapk.com/link?url=http%3A%2F%2F39.134.24.162%2Fdbiptv.sn.chinamobile.com%2FPLTV%2F88888890%2F224%2F3221226218%2Findex.m3u8
+广东｜大湾区卫视,https://www.coolapk.com/link?url=http%3A%2F%2Fdbiptv.sn.chinamobile.com%2FPLTV%2F88888890%2F224%2F3221226218%2Findex.m3u8
+广东｜大湾区卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000045/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=3
+广东｜大湾区卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=3
 广东｜大湾区卫视,http://www.namewee.xyz/gudou.php?id=1456
 广东｜岭南戏曲,http://www.namewee.xyz/gudou.php?id=1460
 广东｜广州综合,http://www.namewee.xyz/gudou.php?id=gzhounewsHD
 广东｜广州新闻,http://www.namewee.xyz/gudou.php?id=gzhouzongheHD
+广东｜广州影视,http://ci.emdoor.tech:8080/touchtv.php?pk=1199
+广东｜广州影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
 广东｜广州影视,http://www.namewee.xyz/gudou.php?id=gzcompetitiongaoqing
 广东｜广州竞赛,http://www.namewee.xyz/gudou.php?id=gzfilmsgaoqing
 广东｜广州法治,http://www.namewee.xyz/gudou.php?id=gzeconomic_1500
